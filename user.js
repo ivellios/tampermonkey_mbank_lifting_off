@@ -6,6 +6,10 @@
 // @author       Janusz "Ivellios" Kamieński
 // @match        *://online.mbank.pl/*
 // @grant        none
+// @run-at       document-end
+
+// For updates check manually: https://github.com/ivellios/tampermonkey_mbank_lifting_off
+
 // ==/UserScript==
 
 (function() {
